@@ -1,0 +1,14 @@
+.DS_Store
+
+# vim swap files
+*.sw[nop]
+
+# Swift Package Manager
+/.build
+xcuserdata/
+.swiftpm
+.swiftpm/xcode/xcuserdata
+*.xcuserstate
+*.xcworkspacedata
+*.orig
+_site/index.html
